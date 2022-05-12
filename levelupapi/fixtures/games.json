@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 1,
+            "title": "Cards Against Elephants",
+            "maker": "Kellogs",
+            "gamer": 1,
+            "number_of_players": 5,
+            "skill_level": 3
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "title": "UNO",
+            "maker": "Gucci",
+            "gamer": 1,
+            "number_of_players": 7,
+            "skill_level": 1
+        }
+    }
+]
